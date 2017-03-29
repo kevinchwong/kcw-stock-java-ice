@@ -10,12 +10,8 @@ As the requests from ICE, I reworked on this project with Java as backend.
 Front End: AngularJS2,TypeScript,html,css
 Back End: PostgresSQL, Java, SpringBoot
 
-
-* Usage
------------
-
-Run in local machine
---------------------
+Run in local machine (mac OS)
+------------------------------
 - npm install
 - ./gradlew runBoot
 - Go to localhost:8080
