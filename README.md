@@ -16,15 +16,15 @@ Back End: PostgresSQL, Java, SpringBoot
 
 Run in local machine
 --------------------
-npm install
-./gradlew runBoot
-Go to localhost:8080
+- npm install
+- ./gradlew runBoot
+- Go to localhost:8080
 
 
 Deploy to Production in Heroku
 ------------------------------
-heroku login
-git add .
-git commit -am "next point"
-git push heroku master
+- heroku login
+- git add .
+- git commit -am "next point"
+- git push heroku master
 
